@@ -32,7 +32,7 @@ mark
  | Content Cell  | Content Cell  |
  | Content Cell  | Content Cell  |
 
- | Ãû×Ö | ÃèÊö
+ | Ãû×Ö | ÃèÊö  |
  | ------------- | ----------- |
  | Help      | Display the help window.|
  | Close     | Closes a window     |
