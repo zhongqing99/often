@@ -27,12 +27,12 @@ mark
  Content Cell  | Content Cell
  Content Cell  | Content Cell
 
- | 表头1  | 表头2  |
+ | 表头1  | 表头2 |
  | ------------- | ------------- |
  | Content Cell  | Content Cell  |
  | Content Cell  | Content Cell  |
 
- | 名字 | 描述  |
+ | 名字 | 描述 |
  | ------------- | ----------- |
  | Help      | Display the help window.|
  | Close     | Closes a window     |
